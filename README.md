@@ -1,6 +1,6 @@
-# 🏥 MediView Healthcare Insights Dashboard (Power BI)
+# MediView Healthcare Insights Dashboard 
 
-## 📌 Project Overview
+## Project Overview
 
 MediView Healthcare Insights Dashboard is an interactive Power BI report designed to provide a comprehensive overview of hospital performance, patient demographics, treatment effectiveness, and cost behavior across 1,000 patients and 5 hospitals.
 
@@ -16,15 +16,15 @@ This end-to-end analytics solution supports informed decision-making and drives 
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](dashboard.png)
 
 ---
 
-## 📊 Visualizations in the Dashboard
+## Visualizations in the Dashboard
 
-- **🎛️ Top Summary KPI Cards**
+- **Top Summary KPI Cards**
   - Average Total Cost per Patient  
   - Average Daily Cost per Patient  
   - Average Recovery Rating  
@@ -40,39 +40,39 @@ This end-to-end analytics solution supports informed decision-making and drives 
 
 ---
 
-## ❓ Business Question
+##  Business Question
 **How can hospitals reduce treatment costs while improving patient recovery outcomes across different demographics and diagnoses?**
 
 ---
 
 ## 🔍 Key Insights
 
-### ⭐ 1. Cost vs Outcome Gaps  
+###  1. Cost vs Outcome Gaps  
 High-cost treatments (e.g., surgery) do not always yield the strongest recovery outcomes.  
 → Hospitals can reduce expenses by increasing use of mid-cost, high-recovery treatments.
 
-### ⭐ 2. Diagnosis Trends  
+###  2. Diagnosis Trends  
 Conditions like hypertension, asthma, obesity, flu, and COVID-19 show different recovery patterns across age groups.  
 → Enables targeted interventions.
 
-### ⭐ 3. Age-Based Differences  
+###  3. Age-Based Differences  
 - Seniors show the widest variability in cost and recovery  
 - Children show generally stable outcomes  
 → Supports age-tailored treatment approaches.
 
-### ⭐ 4. Admission Seasonality  
+###  4. Admission Seasonality  
 Admissions fluctuate by month, impacting staffing and resources.  
 → Hospitals can optimize workforce and bed availability.
 
 ---
 
-## 🛠️ Tools & Skills Used
+##  Tools & Skills Used
 
-### 🔧 Tools  
+###  Tools  
 - Power BI Desktop  
 - Excel  
 
-### 📈 Skills  
+### Skills  
 - Data Modelling  
 - DAX Measures  
 - Interactive Report Design  
@@ -81,7 +81,7 @@ Admissions fluctuate by month, impacting staffing and resources.
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 ### Patient Data  
 - Age, Gender, Blood Type  
@@ -100,7 +100,7 @@ Admissions fluctuate by month, impacting staffing and resources.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ✔ Modern UI with bright, friendly colors  
 ✔ Clean KPI tiles for fast insights  
@@ -111,7 +111,7 @@ Admissions fluctuate by month, impacting staffing and resources.
 
 ---
 
-## ▶️ How to Use the Dashboard
+## How to Use the Dashboard
 
 1. Open the `.pbix` file in Power BI Desktop  
 2. Apply filters (hospital, year, diagnosis, age group)  
